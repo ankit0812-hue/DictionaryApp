@@ -1,3 +1,7 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">Dictionary App</string>
+    <string name="dictionary">Dictionary</string>
+    <string name="meaning">Meaning</string>
+    <string name="typeWord" tools:ignore="TypographyEllipsis">Type here..for eg:pretend</string>
+    <string name="wordMeaning">Behave so as to make it appear that something is the case when in fact it is not.</string>
 </resources>
